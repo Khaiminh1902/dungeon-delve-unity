@@ -1,0 +1,19 @@
+{
+  "author": "Daniel George",
+  "name": "com.daniel-geo.unityhackatime",
+  "displayName": "Unity Hackatime",
+  "version": "1.1.0",
+  "unity": "2020.1",
+  "description": "Hackatime plugin for Unity",
+  "keywords": [
+    "unity",
+    "wakatime",
+    "hackatime",
+    "hackclub",
+    "stats",
+    "tracker",
+    "programming"
+  ],
+  "category": "Productivity",
+  "_fingerprint": "d9a1a3cc5c997fe7a9ea171a9a3970d24793dba4"
+}
